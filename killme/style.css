@@ -1,0 +1,157 @@
+
+body {
+  background: url(fruits/background.jpg) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+
+#appl {
+  cursor: pointer;
+  width: 120px;
+  height: 100px;
+  position:relative;
+  top:00px;
+  right:00px;
+}
+#split {
+  cursor: pointer;
+  width: 120px;
+  height: 110px;
+  position:relative;
+  top:00px;
+  right:00px;
+}
+#chocolate {
+  cursor: pointer;
+  width: 120px;
+  height: 110px;
+  position:relative;
+  top:00px;
+  right:00px;
+}
+
+#cookie {
+  cursor: pointer;
+  width: 120px;
+  height: 100px;
+  position:relative;
+  top:00px;
+  right:00px;
+}
+#huck {
+  cursor: pointer;
+  width: 125px;
+  height: 115px;
+  position:relative;
+  top:100px;
+  right:400px;
+}
+
+
+#peach {
+  cursor: pointer;
+  width: 220px;
+  height: 220px;
+  position:relative;
+  top:200px;
+  right:00px;
+}
+
+
+#straw {
+  cursor: pointer;
+  width: 95px;
+  height: 95px;
+  position:relative;
+  top:200px;
+  right:00px;
+}
+
+#tang {
+  cursor: pointer;
+  width: 240px;
+  height: 120px;
+  position:relative;
+  top:40px;
+  right:220px;
+}
+
+
+#water {
+  cursor: pointer;
+  width: 380px;
+  height: 380px;
+  position:relative;
+  top:100px;
+  right:450px;
+}
+
+
+#coco {
+  cursor: pointer;
+  width: 220px;
+  height: 220px;
+  position:relative;
+  top:200px;
+  left:200px;
+}
+
+#cant {
+  cursor: pointer;
+  width: 320px;
+  height: 320px;
+  position:relative;
+  top:100px;
+  right:450px;
+}
+
+
+#blueberry {
+  cursor: pointer;
+  width: 220px;
+  height: 220px;
+  position:relative;
+  top:400px;
+  left:100px;
+}
+
+
+#cart {
+  cursor: pointer;
+  position: absolute;
+  top: 300px;
+  bottom: 0px;
+  right: 0px;
+  left: 430px;
+  transform: scale(.6)
+}
+
+#apple {
+  cursor: pointer;
+  width: 180px;
+  height: 180px;
+  position:relative;
+  top:400px;
+  left:500px;
+}
+#banana {
+  cursor:pointer;
+  width:290px;
+  height:290px;
+  position:relative;
+  top:200px;
+  right:10px;
+
+}
+
+#sugar {
+  cursor: pointer;
+  width: 320px;
+  height: 320px;
+  position:relative;
+  top:00px;
+  right:00px;
+}
